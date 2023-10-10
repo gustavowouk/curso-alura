@@ -1,4 +1,11 @@
 p{
     font-size:25px;
-    text-align:center;
+    text-align:left;
+}
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: grey;
 }
