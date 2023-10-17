@@ -3,7 +3,7 @@ p{
     text-align:left;
 }
 
-#imagem [widht100]
+#imagem {width: 100%;}
 h1{
     text-align: center;
 }
