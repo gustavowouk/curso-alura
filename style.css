@@ -7,7 +7,7 @@ body{
 }
 
 .principal{
-    background-color: grey;
+    background-color: rgb(90, 88, 88);
 }
 
 }
@@ -29,5 +29,5 @@ em strong{
     font-style: italic;
 }
 .benefícios{
-    background-color: bisque ;
+    background-color: rgb(224, 217, 207) ;
 }
