@@ -9,6 +9,7 @@ body{
 
 .principal{
     background-color: rgb(90, 88, 88);
+    padding: 30px;
 }
 
 
@@ -31,8 +32,20 @@ em strong{
 }
 .benefícios{
     background-color: rgb(224, 217, 207) ;
+    padding: 20px;
 }
 
 h2{
     text-align: center;
+}
+
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imagembenificios{
+    width: 50%;
 }
